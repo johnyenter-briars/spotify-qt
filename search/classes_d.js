@@ -1,11 +1,8 @@
 var searchData=
 [
-  ['saved_5falbum_0',['saved_album',['../classlib_1_1spt_1_1saved__album.html',1,'lib::spt']]],
-  ['search_5fresults_1',['search_results',['../classlib_1_1spt_1_1search__results.html',1,'lib::spt']]],
-  ['set_2',['set',['../classlib_1_1set.html',1,'lib']]],
-  ['settings_3',['settings',['../classlib_1_1settings.html',1,'lib']]],
-  ['show_4',['show',['../classlib_1_1spt_1_1show.html',1,'lib::spt']]],
-  ['stopwatch_5',['stopwatch',['../classlib_1_1stopwatch.html',1,'lib']]],
-  ['strings_6',['strings',['../classlib_1_1strings.html',1,'lib']]],
-  ['system_7',['system',['../classlib_1_1system.html',1,'lib']]]
+  ['random_0',['random',['../classlib_1_1random.html',1,'lib']]],
+  ['release_1',['release',['../classlib_1_1gh_1_1release.html',1,'lib::gh']]],
+  ['request_2',['request',['../classlib_1_1spt_1_1request.html',1,'lib::spt']]],
+  ['result_3',['result',['../classlib_1_1result.html',1,'lib']]],
+  ['results_4',['results',['../classlib_1_1ddg_1_1results.html',1,'lib::ddg']]]
 ];

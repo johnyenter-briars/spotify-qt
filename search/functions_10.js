@@ -1,9 +1,9 @@
 var searchData=
 [
   ['save_0',['save',['../classlib_1_1settings.html#a8dd0f510173f8faf1aa02b657ad29ff7',1,'lib::settings::save()'],['../classlib_1_1json.html#aa45d39432785ccca3c0157b8e01439b3',1,'lib::json::save()']]],
-  ['seconds_5fsince_5fepoch_1',['seconds_since_epoch',['../classlib_1_1date__time.html#adfd78352b99fcb252bfc78d5578955b4',1,'lib::date_time']]],
-  ['seek_2',['seek',['../classlib_1_1spt_1_1api.html#aed68ce4103f82a1ed4dbb61dd8627112',1,'lib::spt::api']]],
-  ['select_5fdevice_3',['select_device',['../classlib_1_1spt_1_1api.html#aed0d8133140221ebdd84d5efc795fda5',1,'lib::spt::api']]],
+  ['search_1',['search',['../classlib_1_1lrc_1_1api.html#a44e5e2e527a89743902d26812b2b201c',1,'lib::lrc::api::search(const std::string &amp;query, lib::callback&lt; lib::result&lt; std::vector&lt; lib::lrc::search_result &gt; &gt; &gt; &amp;callback)'],['../classlib_1_1lrc_1_1api.html#aed1f2595e39cceee74b26a9dbee2090a',1,'lib::lrc::api::search(const lib::spt::track &amp;track, lib::callback&lt; lib::result&lt; std::vector&lt; lib::lrc::search_result &gt; &gt; &gt; &amp;callback)']]],
+  ['seconds_5fsince_5fepoch_2',['seconds_since_epoch',['../classlib_1_1date__time.html#adfd78352b99fcb252bfc78d5578955b4',1,'lib::date_time']]],
+  ['seek_3',['seek',['../classlib_1_1spt_1_1api.html#aed68ce4103f82a1ed4dbb61dd8627112',1,'lib::spt::api']]],
   ['set_5falbum_4',['set_album',['../classlib_1_1cache.html#a56a560740c23e23c0058025447ab6222',1,'lib::cache::set_album()'],['../classlib_1_1json__cache.html#af89108691e2ed8ba61bb1967c6b8b797',1,'lib::json_cache::set_album()']]],
   ['set_5falbum_5fimage_5',['set_album_image',['../classlib_1_1cache.html#a9bccdd7a8dc24fae23075d21e7986fbf',1,'lib::cache::set_album_image()'],['../classlib_1_1json__cache.html#a19d4c2911e7b013d70c8e5204ee4da89',1,'lib::json_cache::set_album_image()']]],
   ['set_5fcache_6',['set_cache',['../classlib_1_1crash__handler.html#aa41586cb01fdc4ff5ce5690692b4c57a',1,'lib::crash_handler']]],
@@ -22,11 +22,12 @@ var searchData=
   ['settings_19',['settings',['../classlib_1_1settings.html#adb2eacf4134e51934d779cb6d933c6a9',1,'lib::settings']]],
   ['show_20',['show',['../classlib_1_1spt_1_1api.html#a0f56416580d89ca435ab3ce15a37fa14',1,'lib::spt::api']]],
   ['show_5fepisodes_21',['show_episodes',['../classlib_1_1spt_1_1api.html#a275014bf2e6d10d2ab09993ad490089b',1,'lib::spt::api']]],
-  ['size_22',['size',['../classlib_1_1format.html#a5c2623a303947450960328e1adeb7397',1,'lib::format']]],
+  ['size_22',['size',['../classlib_1_1format.html#ac1e6cd8b556cb44cebc80ac414de27ee',1,'lib::format']]],
   ['split_23',['split',['../classlib_1_1strings.html#ac28d3f45f0ec324ec627cc1855f40569',1,'lib::strings::split(const std::string &amp;str, const std::string &amp;delimiter) -&gt; std::vector&lt; std::string &gt;'],['../classlib_1_1strings.html#a8eb65123d86e7e0f3fb834f0c13c4d95',1,'lib::strings::split(const std::string &amp;str, char delimiter) -&gt; std::vector&lt; std::string &gt;']]],
   ['start_24',['start',['../classlib_1_1stopwatch.html#ae42cfa37e0452feae50ab338cef759f6',1,'lib::stopwatch']]],
   ['starts_5fwith_25',['starts_with',['../classlib_1_1strings.html#a36c370982807a4d49343ec3811d184f9',1,'lib::strings']]],
   ['stop_26',['stop',['../classlib_1_1stopwatch.html#a0fad5dd1ab7332da9497c8e7aa5cb3b6',1,'lib::stopwatch']]],
   ['stopwatch_27',['stopwatch',['../classlib_1_1stopwatch.html#aa6ec45c49a9132d02cdebf23cb192c3b',1,'lib::stopwatch']]],
-  ['sub_28',['sub',['../classlib_1_1vector.html#ac54a6a64d3e2a89092b00d6d81c0300f',1,'lib::vector']]]
+  ['sub_28',['sub',['../classlib_1_1vector.html#ac54a6a64d3e2a89092b00d6d81c0300f',1,'lib::vector']]],
+  ['success_29',['success',['../classlib_1_1result.html#a74b24c938e04338d3caa5268ae709df1',1,'lib::result']]]
 ];
